@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "52431bb9-9dc9-5c48-9081-b8792f7f1219++2861",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "52431bb9-9dc9-5c48-9081-b8792f7f1219++2861" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "52431bb9-9dc9-5c48-9081-b8792f7f1219++2861" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "54122CE9-6FCF-4B52-8693-D6F4EC0BBE89",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "52431bb9-9dc9-5c48-9081-b8792f7f1219++2861" : "DiDiProject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GeneralInterface",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GeneralInterface\/GeneralInterface.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/134.xuxinhua@218.66.59.169:4500\/svn\/CRM_BI",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52431bb9-9dc9-5c48-9081-b8792f7f1219++2861"
+    }
+  ]
+}

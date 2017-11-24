@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>54122CE9-6FCF-4B52-8693-D6F4EC0BBE89</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GeneralInterface</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>07753d88-a187-eb4b-8214-cae173f66482++5326</key>
+		<string>https://218.66.59.169:8092/svn/cowork/ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DiDiProject/GeneralInterface/GeneralInterface.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>07753d88-a187-eb4b-8214-cae173f66482++5326</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>07753d88-a187-eb4b-8214-cae173f66482++5326</key>
+		<string>https://218.66.59.169:8092/svn/cowork</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://218.66.59.169:8092/svn/cowork/ios/DiDiProject/GeneralInterface/GeneralInterface.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>07753d88-a187-eb4b-8214-cae173f66482++5326</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>07753d88-a187-eb4b-8214-cae173f66482++5326</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
